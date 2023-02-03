@@ -69,7 +69,7 @@ The application should not give false alerts to users.
 The application should have a simple UI making it easy to use.
 
 **4. Efficiency:**  
-The application should not eat up much resources which in turn would drain the device's battery
+The application should not eat up much resources which in turn would drain the device's battery.
 
 **5. Latency:**  
 The application should give the alerts as quickly as possible so prevent any hazard.
