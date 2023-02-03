@@ -62,13 +62,13 @@ The application can be used by people who are suffering from hearing disabilitie
 **1. Accuracy:**  
 The application should be accurate enough to identify the source of the sound.
 
-**2. Reliability:**
+**2. Reliability:**  
 The application should not give false alerts to users.
 
-**3. Ease of use:**
+**3. Ease of use:**  
 The application should have a simple UI making it easy to use.
 
-**4. Efficiency:**
+**4. Efficiency:**  
 The application should not eat up much resources which in turn would drain the device's battery
 
 **5. Latency:**  
