@@ -40,11 +40,9 @@ The system designed should be easy to maintain and expand. Minor changes should 
 
 ### Roles:
 
-i) Librarian: Has complete control over the LIS i.e they can add remove users, books, manage entries, (re-)issue books, prompt users when book is overdue etc.
-
-ii) Student: Can issue and return books during the library hours. Has access to only selected set of materials.
-
-iii) Professors and Research Fellows: Same privileges as the student, just has access to more materials.
+i) Librarian: Has complete control over the LIS i.e they can add remove users, books, manage entries, (re-)issue books, prompt users when book is overdue etc.  
+ii) Student: Can issue and return books during the library hours. Has access to only selected set of materials.  
+iii) Professors and Research Fellows: Same privileges as the student, just has access to more materials.  
 
 ## Q2
 
